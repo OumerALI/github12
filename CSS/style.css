@@ -1,0 +1,26 @@
+/** @format */
+
+body {
+  text-align: center;
+  background-color: #162c9d;
+  color: black;
+}
+.container {
+  border: 3px solid aqua;
+  border-radius: 15px;
+  background-color: black;
+  color: white;
+}
+.head {
+  font-size: 2rem;
+  color: #93f4e0;
+}
+li {
+  list-style: none;
+  padding-top: 10px;
+  font-size: 20px;
+}
+.omar {
+  display: none;
+}
+
